@@ -18,6 +18,18 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/backlight.h>
 
+#define CMDOPT   LG(LA(key))
+#define CMDSPC   LG(SPACE)
+
+#define MISSCTL  LC(UP)
+#define MACLOCK  LG(LC(Q))
+
+#define BROWSER_SEARCH LG(F)
+#define BROWSER_NEWTAB LG(T)
+#define BROWSER_CLOSETTAB LG(W)
+#define BROWSER_NEXTTAB LG(LA(RIGHT))
+#define BROWSER_PREVTAB LG(LA(LEFT))
+
 / {
   behaviors {
     #include "macros.dtsi"
