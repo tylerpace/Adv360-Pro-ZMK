@@ -18,7 +18,7 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/backlight.h>
 
-#define CMDOPT   LG(LA)
+#define CMDOPT   LG(LALT)
 #define CMDSPC   LG(SPACE)
 
 #define MISSCTL  LC(UP)
