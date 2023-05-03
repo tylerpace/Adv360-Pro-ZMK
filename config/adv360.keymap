@@ -84,7 +84,7 @@
   &trans  &kp EXCL      &kp AT        &kp LEFT_BRACE        &kp RIGHT_BRACE   &kp PIPE     &none                                                    &none  &kp BROWSER_PREVTAB  &kp BROWSER_NEXTTAB  &kp BROWSER_NEWTAB  &kp BROWSER_CLOSETTAB  &kp ASTRK     &trans
   &trans  &kp AMPS  &kp DOLLAR  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE     &none  &trans  &trans   &none   &none  &trans  &trans    &none             &kp LEFT            &kp RIGHT              &kp UP               &kp DOWN     &trans     &trans
   &trans  &kp HASH   &kp CARET      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp TILDE     &none   &none  &trans   &none   &none  &trans   &none    &none       &kp UNDERSCORE            &kp MINUS           &kp EQUAL            &kp PERCENT     &trans     &trans
-  &trans    &trans      &trans                &trans                 &trans               &trans  &trans  &trans                  &trans  &trans   &trans                                    &trans              &trans                 &trans     &trans     &trans
+  &trans    &trans      &trans                &trans                 &trans               &trans  &trans  &trans                  &trans  &trans   &trans                           &kp C_VOLUME_UP   &kp C_VOLUME_DOWN                 &trans     &trans     &trans
             >;
         };
 
